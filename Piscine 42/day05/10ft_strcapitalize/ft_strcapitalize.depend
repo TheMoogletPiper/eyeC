@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571818466 source:c:\users\mikes\c\day05\ft_strcapitalize\main.c
+	<stdio.h>
+	<stdlib.h>
+

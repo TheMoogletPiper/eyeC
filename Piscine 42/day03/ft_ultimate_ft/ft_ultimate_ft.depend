@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\mikes\c\day03\ex00\ft_ultimate_ft\main.c
+	<stdio.h>
+	<stdlib.h>
+

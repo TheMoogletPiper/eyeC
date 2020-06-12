@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572248124 source:c:\users\mikes\c\day04\ft_find_next_prime\main.c
+	<stdio.h>
+	<stdlib.h>
+

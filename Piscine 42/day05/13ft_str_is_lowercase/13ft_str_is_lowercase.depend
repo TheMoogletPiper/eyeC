@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583746018 source:c:\users\mikes\c\day05\13ft_str_is_lowercase\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571150339 source:c:\users\mikes\c\day03\ex00\ft_putstr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

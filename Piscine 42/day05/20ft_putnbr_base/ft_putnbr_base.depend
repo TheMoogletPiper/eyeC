@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583181258 source:c:\users\mikes\c\day05\20ft_putnbr_base\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1591691726 source:c:\users\mikes\c\day05\20ft_putnbr_base\second.c
+	<stdio.h>
+	<stdlib.h>
+

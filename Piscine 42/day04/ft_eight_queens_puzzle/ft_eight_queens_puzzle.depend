@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571646636 source:c:\users\mikes\c\day04\ft_eight_queens_puzzle\main.c
+	<stdio.h>
+	<stdlib.h>
+

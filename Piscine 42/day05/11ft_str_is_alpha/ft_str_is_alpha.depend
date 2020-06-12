@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571819157 source:c:\users\mikes\c\day05\ft_str_is_alpha\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583749487 source:c:\users\mikes\c\day05\15ft_str_is_printable\main.c
+	<stdio.h>
+	<stdlib.h>
+
